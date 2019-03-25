@@ -1,2 +1,4 @@
-# orale-instantclient
-rpm download for old oracle clients
+# oracle-instantclient
+Rpm download for old oracle clients.  
+
+Use them to automate vagrant box provisionning.
